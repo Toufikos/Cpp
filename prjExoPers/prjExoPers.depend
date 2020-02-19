@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574076538 source:c:\users\administrateur\desktop\akka\prjexopers\main.cpp
+	<iostream>
+	"Personne.h"
+
+1574076032 source:c:\users\administrateur\desktop\akka\prjexopers\personne.cpp
+	<iostream>
+	"Personne.h"
+
+1574076652 c:\users\administrateur\desktop\akka\prjexopers\personne.h
+

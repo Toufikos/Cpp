@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574352014 source:c:\users\administrateur\desktop\akka\prjexception\main.cpp
+	<iostream>
+	"Point.h"
+	"MonException.h"
+
+1574352066 c:\users\administrateur\desktop\akka\prjexception\point.h
+	"MonException.h"
+
+1574351932 c:\users\administrateur\desktop\akka\prjexception\monexception.h
+	<iostream>
+

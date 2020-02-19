@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1574157276 source:c:\users\administrateur\desktop\akka\prjheritagesimple\point.cpp
+	<iostream>
+	"Point.h"
+
+1574161826 c:\users\administrateur\desktop\akka\prjheritagesimple\point.h
+
+1574172428 source:c:\users\administrateur\desktop\akka\prjheritagesimple\main.cpp
+	<iostream>
+	<sstream>
+	"Point.h"
+	"PointCouleur.h"
+	"Cercle.h"
+
+1574161393 source:c:\users\administrateur\desktop\akka\prjheritagesimple\pointcouleur.cpp
+	<iostream>
+	"PointCouleur.h"
+
+1574161826 c:\users\administrateur\desktop\akka\prjheritagesimple\pointcouleur.h
+	"Point.h"
+
+1574169218 source:c:\users\administrateur\desktop\akka\prjheritagesimple\cercle.cpp
+	<iostream>
+	"Cercle.h"
+
+1574169338 c:\users\administrateur\desktop\akka\prjheritagesimple\cercle.h
+	"Point.h"
+

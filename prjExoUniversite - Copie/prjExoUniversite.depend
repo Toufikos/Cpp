@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1574258244 source:c:\users\administrateur\desktop\akka\prjexouniversite - copie\chargetd.cpp
+	"ChargeTD.h"
+
+1574258124 c:\users\administrateur\desktop\akka\prjexouniversite - copie\chargetd.h
+	"Employe.h"
+	"Etudiant.h"
+
+1574249980 c:\users\administrateur\desktop\akka\prjexouniversite - copie\employe.h
+	<iostream>
+	<sstream>
+	"Personne.h"
+
+1574258035 c:\users\administrateur\desktop\akka\prjexouniversite - copie\personne.h
+
+1574249951 c:\users\administrateur\desktop\akka\prjexouniversite - copie\etudiant.h
+	"Personne.h"
+
+1574243438 source:c:\users\administrateur\desktop\akka\prjexouniversite - copie\etudiant.cpp
+	<iostream>
+	<sstream>
+	"Etudiant.h"
+
+1574346509 source:c:\users\administrateur\desktop\akka\prjexouniversite - copie\main.cpp
+	<iostream>
+	"Personne.h"
+	"Etudiant.h"
+	"Employe.h"
+	"Universite.h"
+	"ChargeTD.h"
+	"UniversiteVec.h"
+
+1574246088 c:\users\administrateur\desktop\akka\prjexouniversite - copie\universite.h
+	"Personne.h"
+	"Etudiant.h"
+	"Employe.h"
+
+1574258253 source:c:\users\administrateur\desktop\akka\prjexouniversite - copie\personne.cpp
+	<iostream>
+	<sstream>
+	"Personne.h"
+
+1574247076 source:c:\users\administrateur\desktop\akka\prjexouniversite - copie\universite.cpp
+	<iostream>
+	<sstream>
+	"Universite.h"
+
+1574346664 source:c:\users\administrateur\desktop\akka\prjexouniversite - copie\universitevec.cpp
+	<iostream>
+	<sstream>
+	"Etudiant.h"
+	"Employe.h"
+	"ChargeTD.h"
+	"UniversiteVec.h"
+
+1574346666 c:\users\administrateur\desktop\akka\prjexouniversite - copie\universitevec.h
+	<vector>
+	"Personne.h"
+

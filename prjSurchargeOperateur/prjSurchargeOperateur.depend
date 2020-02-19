@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574092553 source:c:\users\administrateur\desktop\akka\prjsurchargeoperateur\src\point.cpp
+	<iostream>
+	"point.h"
+
+1574092464 c:\users\administrateur\desktop\akka\prjsurchargeoperateur\include\point.h
+
+1574092965 source:c:\users\administrateur\desktop\akka\prjsurchargeoperateur\main.cpp
+	<iostream>
+	"point.h"
+

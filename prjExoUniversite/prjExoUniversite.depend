@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1574244005 source:c:\users\administrateur\desktop\akka\prjexouniversite\main.cpp
+	<iostream>
+	"Personne.h"
+	"Etudiant.h"
+	"Employe.h"
+	"Universite.h"
+
+1574240897 source:c:\users\administrateur\desktop\akka\prjexouniversite\personne.cpp
+	<iostream>
+	<sstream>
+	"Personne.h"
+
+1574243392 c:\users\administrateur\desktop\akka\prjexouniversite\personne.h
+
+1574243438 source:c:\users\administrateur\desktop\akka\prjexouniversite\etudiant.cpp
+	<iostream>
+	<sstream>
+	"Etudiant.h"
+
+1574243434 c:\users\administrateur\desktop\akka\prjexouniversite\etudiant.h
+	"Personne.h"
+
+1574243419 c:\users\administrateur\desktop\akka\prjexouniversite\employe.h
+	<iostream>
+	<sstream>
+	"Personne.h"
+
+1574245894 source:c:\users\administrateur\desktop\akka\prjexouniversite\universite.cpp
+	<iostream>
+	<sstream>
+	"Universite.h"
+
+1574245884 c:\users\administrateur\desktop\akka\prjexouniversite\universite.h
+	"Personne.h"
+	"Etudiant.h"
+	"Employe.h"
+

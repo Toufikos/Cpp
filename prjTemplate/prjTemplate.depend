@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574330455 source:c:\users\administrateur\desktop\akka\prjtemplate\main.cpp
+	<iostream>
+	<string>
+	"Tablo.h"
+
+1574331017 source:c:\users\administrateur\desktop\akka\prjtemplate\tablo.cpp
+	<iostream>
+	"Tablo.h"
+
+1574331015 c:\users\administrateur\desktop\akka\prjtemplate\tablo.h
+

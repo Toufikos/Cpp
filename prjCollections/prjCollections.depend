@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574334094 source:c:\users\administrateur\desktop\akka\prjcollections\main.cpp
+	<iostream>
+	<vector>
+	"Point.h"
+
+1574334139 c:\users\administrateur\desktop\akka\prjcollections\point.h
+

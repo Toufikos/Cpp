@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573825841 source:c:\users\administrateur\desktop\akka\prjclasseex3\main.cpp
+	<iostream>
+	"Point.h"
+
+1573825861 source:c:\users\administrateur\desktop\akka\prjclasseex3\point.cpp
+	<iostream>
+	"Point.h"
+
+1573825786 c:\users\administrateur\desktop\akka\prjclasseex3\point.h
+
+1573827000 source:d:\3.dev\6.cours\ajc formation\c++\akka\prjclasseex3\main.cpp
+	<iostream>
+	"Point.h"
+
+1573825788 d:\3.dev\6.cours\ajc formation\c++\akka\prjclasseex3\point.h
+
+1573825862 source:d:\3.dev\6.cours\ajc formation\c++\akka\prjclasseex3\point.cpp
+	<iostream>
+	"Point.h"
+

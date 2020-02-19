@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1573829382 source:c:\users\administrateur\desktop\akka\prjvecteur3dexo\main.cpp
+	<iostream>
+
+1573829836 source:c:\users\administrateur\desktop\akka\prjvecteur3dexo\vecteur3d.cpp
+	<iostream>
+	"vecteur3d.h"
+
+1573829867 c:\users\administrateur\desktop\akka\prjvecteur3dexo\vecteur3d.h
+

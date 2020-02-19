@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1574068398 source:c:\users\administrateur\desktop\akka\prjarticleexo2\main.cpp
+	<iostream>
+	"Article.h"
+
+1574071148 source:c:\users\administrateur\desktop\akka\prjarticleexo2\article.cpp
+	"Article.h"
+	<iostream>
+
+1574071148 c:\users\administrateur\desktop\akka\prjarticleexo2\article.h
+	<iostream>
+
+1574071150 source:d:\3.dev\6.cours\ajc formation\c++\akka\prjarticleexo2\article.cpp
+	"Article.h"
+	<iostream>
+
+1574071150 d:\3.dev\6.cours\ajc formation\c++\akka\prjarticleexo2\article.h
+	<iostream>
+

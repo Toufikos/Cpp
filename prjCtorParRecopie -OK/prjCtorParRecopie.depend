@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1574086126 source:c:\users\administrateur\desktop\akka\prjctorparrecopie\main.cpp
+	<iostream>
+	"Voiture.h"
+	"Carte_grise.h"
+
+1574086321 c:\users\administrateur\desktop\akka\prjctorparrecopie\voiture.h
+	<iostream>
+	"Carte_grise.h"
+
+1574086179 c:\users\administrateur\desktop\akka\prjctorparrecopie\carte_grise.h
+
