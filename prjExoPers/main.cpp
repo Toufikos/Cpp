@@ -11,7 +11,7 @@ int main()
     p.infos();
 
 
-    Personne p2("totooooooooooooooooooooooooooooooooooooooooooooooooooo", 19);
+    Personne p2("toto", 19);
     p2.infos();
 
     Personne p3;
