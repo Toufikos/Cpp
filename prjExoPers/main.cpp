@@ -23,6 +23,9 @@ int main()
     Personne p5("", 55);
     p5.infos();
 
+    Personne p6("", 11);
+    p6.infos();
+
 
     Personne *pPers = new Personne("Paul", 65);
     pPers->infos();
