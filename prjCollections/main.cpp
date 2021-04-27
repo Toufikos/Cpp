@@ -28,8 +28,8 @@ int main()
          cout << "v : " << v << endl;
     }
 
-    //cout << vecInts[10]; //Ne génère pas d'erreur alors que je suis en dehors de mon vecteur
-    //cout << vecInts.at(10); //Génère une erreur en cas de dépassement
+    //cout << vecInts[10]; //Ne gÃ©nÃ©re pas d'erreur alors que je suis en dehors de mon vecteur
+    //cout << vecInts.at(10); // GÃ©nÃ©re une erreur en cas de dÃ©passement
 
     //vecInts.clear();
 
@@ -54,14 +54,14 @@ int main()
 
     ////////////// Parcours via iterator
     for(vector<Point>::iterator it=vecPoints.begin(); //Init
-            it != vecPoints.end(); // condition d'entrée
+            it != vecPoints.end(); // condition d'entrï¿½e
             it++) //Incrementation
     {
        it->affiche();
     }
 
 
-    cout << endl << "------- Dictionnaire (Association clé/Valeur) -------------"<< endl;
+    cout << endl << "------- Dictionnaire (Association clï¿½/Valeur) -------------"<< endl;
     map<int, string> mapCP;
     mapCP[94] = "VDM";
     mapCP[93] = "SSD";
@@ -73,14 +73,14 @@ int main()
 
     cout << endl << "-------LIste des CP -------------"<< endl;
     for(map<int, string>::iterator itCP=mapCP.begin(); //Init
-            itCP != mapCP.end(); // condition d'entrée
+            itCP != mapCP.end(); // condition d'entrï¿½e
             itCP++) //Incrementation
     {
        cout << "K : " << itCP->first << " V : " << itCP->second << endl;
     }
 
 
-    //Recherch de clé
+    //Recherch de clï¿½
     map<int, string>::iterator itFind= mapCP.find(94);
     cout << itFind->second;
 
@@ -99,10 +99,6 @@ int main()
         pileInt.pop();
         cout << "Taille : " << pileInt.size() << endl;
     }
-
-
-
-
 
     return 0;
 }
