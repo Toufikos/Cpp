@@ -38,7 +38,6 @@ int main()
 
     cout << endl << "---------------------------------------"<< endl;
 
-
     Point p;
     Point p2(5,5);
     Point p3(3,2);
@@ -66,6 +65,7 @@ int main()
     mapCP[94] = "VDM";
     mapCP[93] = "SSD";
     mapCP[91] = "ESS";
+    mapCP[78] = "Y";
 
     cout << mapCP[93];
     mapCP[93] = "Seine Saint Denis";
@@ -80,7 +80,7 @@ int main()
     }
 
 
-    //Recherch de cl�
+    //Recherch de clé
     map<int, string>::iterator itFind= mapCP.find(94);
     cout << itFind->second;
 
