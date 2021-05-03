@@ -7,11 +7,11 @@ int Personne::majorite = 18;
 
 void Personne::setNom(string nom)
 {
-    //this : opérateur d'autreference
-    // Il permet de lever l'ambiguité lorsque l'argument a le meme nom qu'une donnée membre !!!!!!s
-    //il correspond à l'instance courante
-    //Ce mot clé ne peut s'utuiliser que dans des methodes d'instance !!!!!!!!
-    //En aucun cas dans des methodes statiques (appelées aussi méthode de classe )
+    //this : opÃ©rateur d'autreference
+    // Il permet de lever l'ambiguitÃ© lorsque l'argument a le meme nom qu'une donnÃ©e membre !!!!!!s
+    //il correspond Ã  l'instance courante
+    //Ce mot clÃ© ne peut s'utuiliser que dans des methodes d'instance !!!!!!!!
+    //En aucun cas dans des methodes statiques (appelÃ©es aussi mÃ©thode de classe )
     this->nom = nom;
     //nom = Personne::verifNom(n);
     verifNom();

@@ -60,7 +60,7 @@ int main()
     }
 
 
-    cout << endl << "------- Dictionnaire (Association cl�/Valeur) -------------"<< endl;
+    cout << endl << "------- Dictionnaire (Association clé/Valeur) -------------"<< endl;
     map<int, string> mapCP;
     mapCP[94] = "VDM";
     mapCP[93] = "SSD";
@@ -80,7 +80,7 @@ int main()
     }
 
 
-    //Recherch de clé
+    //Recherche de clé
     map<int, string>::iterator itFind= mapCP.find(94);
     cout << itFind->second;
 
