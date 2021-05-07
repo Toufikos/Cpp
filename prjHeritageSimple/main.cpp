@@ -7,7 +7,7 @@
 
 using namespace std;
 
-//Permet de renvoyer une chaine concaténée
+//Permet de renvoyer une chaine concatï¿½nï¿½e
 string returnChaine()
 {
     ostringstream oss;
@@ -62,8 +62,8 @@ Destruction du Cercle
     pt2 = new PointCouleur(7, 7, 'G', "Green");
     /*
     Du fait de la methode virtuelle, il est capable de faire appel
-    à la methode affiche non pas en fonction du type de l'objet déclaré (ici Point)
-    mais en fonction du type de l'élément réellement instancé (ici PointCouleur)
+    ï¿½ la methode affiche non pas en fonction du type de l'objet dï¿½clarï¿½ (ici Point)
+    mais en fonction du type de l'ï¿½lï¿½ment rï¿½ellement instancï¿½ (ici PointCouleur)
 
     => POLYMORPHISME
 
@@ -95,7 +95,7 @@ Destruction du Cercle
     {
         tPoints[i]->affiche();
         cout << endl<< " ------ Valeur de x : " << tPoints[i]->getX() << endl;
-        //ligne suivante impossible en l'état !!!!!
+        //ligne suivante impossible en l'Ã©tat !!!!!
         //cout << endl<< " ------ Rayon  : " << tPoints[i]->getCouleur() << endl;
 
         pCercle = dynamic_cast<Cercle *>(tPoints[i]);
@@ -142,9 +142,6 @@ Destruction du Cercle
 
     Point p(10, 10, 'N');
     p.affiche();
-
-
-
 
 
     return 0;

@@ -32,9 +32,6 @@ int main()
 
     int tab[3] = {10,20,30};
 
-
-
-
     int *  pt_normal;
     pt_normal = tab;
     cout << endl << " pt_normal : " << *pt_normal;
