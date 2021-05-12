@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-   Point objPoint; //Crée un objet Point
+   Point objPoint; //CrÃ©e un objet Point
 
    objPoint.setNom('a');
    objPoint.setX(10);
@@ -58,9 +58,6 @@ int main()
     //(*p6).affiche();
 
     //Point& p7 = new Point('Y', 20, 20);
-
-
-
 
 
     return 0;
