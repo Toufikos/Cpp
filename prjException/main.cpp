@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    //Portion de code à surveiller
+    //Portion de code Ã  surveiller
     try
     {
         Point p(10,20);
