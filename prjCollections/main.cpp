@@ -100,5 +100,25 @@ int main()
         cout << "Taille : " << pileInt.size() << endl;
     }
 
+     //Recherche de clé
+    map<int, string>::iterator itFind= mapCP.find(94);
+    cout << itFind->second;
+
+
+    stack<int> pileInt;
+    pileInt.push(50);
+    pileInt.push(40);
+    pileInt.push(30);
+    pileInt.push(20);
+    pileInt.push(10);
+
+    while(!pileInt.empty())
+    {
+        //cout << pileInt[0];
+        cout << pileInt.top() << endl;
+        pileInt.pop();
+        cout << "Taille : " << pileInt.size() << endl;
+    }
+
     return 0;
 }
