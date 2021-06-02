@@ -1,0 +1,6 @@
+GCC : 
+multiplateforme.
+
+Bordland C++ Compiler :
+win32, make.
+
